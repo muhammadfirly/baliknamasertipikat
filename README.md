@@ -1,4 +1,4 @@
-- Judul : Baliknamasertipikat
-- Teknologi : Html, Css, Javascript
-- Tentang : Personal Website
+- Tittle : Baliknamasertipikat
+- Technology : Html, Css, Javascript
+- About : Personal Website
 - Demo : https://baliknamasertipikat.com/
